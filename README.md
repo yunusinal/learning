@@ -1,3 +1,3 @@
-# python-denemelerim
-Python öğrenirken yapmış olduğum basit programlar..
+### Python 
+Python öğrenirken yapmış olduğum basit programlar...
 
